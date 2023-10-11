@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-has-content */
 import React, { useState } from "react";
 import { Row, Col } from "antd";
 import "./index.less";

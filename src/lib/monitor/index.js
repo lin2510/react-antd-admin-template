@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { injectJsError } from './lib/jsError';
 import { injectXHR } from './lib/xhr';
 import { blankScreen } from './lib/blankScreen';

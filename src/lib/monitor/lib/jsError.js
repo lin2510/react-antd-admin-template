@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 
 import getLastEvent from '../utils/getLastEvent';
 import getSelector from '../utils/getSelector';
